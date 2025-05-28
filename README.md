@@ -23,10 +23,14 @@ Welcome to the **ATM Simulator System**, a desktop-based banking application bui
 
 ## 🖼️ Screenshots
 
-<img src="images/login.png" alt="Login Page" width="600">
-<img src="images/dashboard.png" alt="Dashboard Page" width="600">
-<img src="images/withdraw.png" alt="Withdraw Page" width="600">
-<img src="images/deposit.png" alt="Deposit Page" width="600">
+<img src="images/Login.png" alt="Login Page" width="600">
+<img src="images/Dashboard.png" alt="Dashboard Page" width="600">
+<img src="images/Withdraw.png" alt="Withdraw Page" width="600">
+<img src="images/Deposit.png" alt="Deposit Page" width="600">
+<img src="images/Signup.png" alt="Signup Page" width="600">
+<img src="images/Ministatement.png" alt="Ministatement Page" width="600">
+<img src="images/Accountinfo.png" alt="Accountinfo Page" width="600">
+<img src="images/Pinchange.png" alt="Pinchange Page" width="600">
 
 > Place all screenshots inside a folder named **`images/`** in your GitHub repository root.
 
