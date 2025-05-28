@@ -16,7 +16,7 @@ Welcome to the **ATM Simulator System**, a desktop-based banking application bui
 
 ## 📽️ Demo Video
 
-▶️ **[Click here to watch the demo video](#)**  
+▶️ **[[Click here to watch the demo video](https://drive.google.com/file/d/1nxdogXdSymkJ2PCAn7q66j-CKQsrMlqF/view?usp=sharing)](#)**  
 > _Replace this `#` with your actual YouTube or Google Drive video link._
 
 ---
